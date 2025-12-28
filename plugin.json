@@ -1,0 +1,6 @@
+{
+	"ver": 1,
+	"name": "Time command",
+	"icon": "ti-clock",
+	"description": "Insert current time in text"
+}
